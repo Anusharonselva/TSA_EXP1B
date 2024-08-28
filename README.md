@@ -94,7 +94,8 @@ SEASONAL ADJUSTMENT:
 
 LOG TRANSFORMATION:
 
-![Uploading Screenshot 2024-08-28 092017.png…]()
+![Screenshot 2024-08-28 092017](https://github.com/user-attachments/assets/6e343263-334a-4e38-b012-9eda78a3f635)
+
 
 
 ### RESULT:
